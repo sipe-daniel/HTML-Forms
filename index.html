@@ -44,49 +44,66 @@
             <main>
                 <div class="row justify-content-center">
                     <div class="col-md-4">
-                    <div class="card text-center">
-                       <div class="card-body">
-                            <h1>Create an Intuit account</h1>
-                            <div>One account for everything Intuit, including Mint.
-                                <a href="#" target="_blank">Learn&nbsp;more</a>
+                        <div class="card text-center">
+                        <div class="card-body">
+                                <h1>Create an Intuit account</h1>
+                                <div>One account for everything Intuit, including Mint.
+                                    <a href="#" target="_blank">Learn&nbsp;more</a>
+                                </div>
+
+                                <form id="login-form" class="formSignUp" action="" method="post">
+                                    <div class="form-group">
+                                        <label for="email" class="text-info">Email:</label><br>
+                                        <input type="email" name="email" id="email" class="form-control" required="required">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="phone" class="text-info">Phone No:</label><br>
+                                        <input type="text" name="phone" id="username" class="form-control" required="required">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="password" class="text-info">Password:</label><br>
+                                        <input type="password" name="password" id="password" class="form-control" required="required" placeholder="&#xf09c;">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="c_password" class="text-info">Confirm Password:</label><br>
+                                        <input type="password" name="c_password" id="c_password" class="form-control" required="required" >
+                                    </div>
+
+                                    <p>By clicking Create account, you agree to our
+    Terms and have read and acknowledge our Privacy Statement.</p>
+                                </form>
+                        </div>
+                            <div class="card-footer text-muted">
+                                <span>
+                                    Invisible reCAPTCHA by Google 
+                                    <a href="#">Privacy Policy</a>
+                                    <span>&nbsp;and&nbsp;</span>
+                                    <a href="#" target="_blank">Terms of Use</a>
+                                </span>
                             </div>
-
-                            <form id="login-form" class="formSignUp" action="" method="post">
-                                <div class="form-group">
-                                    <label for="email" class="text-info">Email:</label><br>
-                                    <input type="email" name="email" id="email" class="form-control" required="required">
-                                </div>
-                                <div class="form-group">
-                                    <label for="phone" class="text-info">Phone No:</label><br>
-                                    <input type="text" name="phone" id="username" class="form-control" required="required">
-                                </div>
-                                <div class="form-group">
-                                    <label for="password" class="text-info">Password:</label><br>
-                                    <input type="password" name="password" id="password" class="form-control" required="required" placeholder="&#xf09c;">
-                                </div>
-                                <div class="form-group">
-                                    <label for="c_password" class="text-info">Confirm Password:</label><br>
-                                    <input type="password" name="c_password" id="c_password" class="form-control" required="required" >
-                                </div>
-
-                                 <p>By clicking Create account, you agree to our
-Terms and have read and acknowledge our Privacy Statement.</p>
-                            </form>
-                       </div>
-                        <div class="card-footer text-muted">
-                            <span>
-                                Invisible reCAPTCHA by Google 
-                                <a href="#">Privacy Policy</a>
-                                <span>&nbsp;and&nbsp;</span>
-                                <a href="#" target="_blank">Terms of Use</a>
-                            </span>
                         </div>
                     </div>
-                </div>
                 </div>
             </main>
 
         </section>
+
+        <footer>
+            <div class="row justify-content-center footerTextStyle ">
+                <div class="col-md-6 ">
+                    <ul class="listFooter">
+                        <li>Legal</li>
+                        <li>Privacy</li>
+                        <li>Security</li>
+                    </ul>
+            
+                    <span>© 2020 Intuit, Inc. All rights reserved. Intuit, QuickBooks, QB, TurboTax, ProConnect and Mint are registered trademarks of Intuit Inc.</span>
+                <br/>
+                    <span> Terms and conditions, features, support, pricing, and service options subject to change without notice.</span>
+                </div>
+
+            </div>
+        </footer>
 
         
     </body>

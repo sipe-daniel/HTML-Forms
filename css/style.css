@@ -20,3 +20,18 @@ input::-webkit-input-placeholder {
 	font-family: 'FontAwesome';
 	text-align:right
 }
+.listFooter{
+    margin-bottom : 0px;
+    text-align: center;
+}
+.listFooter > li{
+    display: inline-block;
+}
+.footerTextStyle>div>span, .footerTextStyle>div>ul>li{
+    font-family: AvenirNext,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: 12;
+    line-height: 14px;
+    
+}
+
