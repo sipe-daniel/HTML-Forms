@@ -68,3 +68,22 @@ form>p{
 .footerText{
 	text-align: center;
 }
+.accounts{
+	text-align: right;;
+}
+.accounts > p{     
+	font-size: 0.9em;   
+	flex: none;     
+	margin-bottom: 0px;     
+	display: inline-block; 
+} 
+#sideAccountWrapper{
+	font-size: 0.9em !important;
+}
+.defaultHorizonTalPading{
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.signInBtn{
+	margin-top: 4px;
+}
