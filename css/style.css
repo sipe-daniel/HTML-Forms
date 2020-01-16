@@ -71,14 +71,8 @@ form>p{
 .accounts{
 	text-align: right;
 }
-.accounts > p{     
-	font-size: 11px;   
-	flex: none;     
-	margin-bottom: 0px;     
-	display: inline-block; 
-} 
 #sideAccountWrapper{
-	font-size: 0.9em !important;
+	font-size: 11px;
 }
 .defaultHorizonTalPading{
 	padding-right: 3px;
