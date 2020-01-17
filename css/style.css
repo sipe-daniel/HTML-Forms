@@ -70,9 +70,9 @@ form > p {
   color: #8d9096;
 }
 
-.footerTextStyle > div > span, 
+.footerTextStyle > div > span,
 .footerTextStyle > div > ul > li {
-  font-family: AvenirNext,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
   text-align: center;
   font-size: 10;
   line-height: 14px;
