@@ -79,6 +79,7 @@ form > p {
 }
 
 .logoWrapper { text-align: center; }
+body { overflow-x: hidden; }
 
 .accounts {
   text-align: right;
