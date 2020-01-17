@@ -20,7 +20,7 @@
 }
 
 input::-webkit-input-placeholder {
-  font-family: 'FontAwesome';
+  font-family: 'FontAwesome', sans-serif;
   text-align: right;
 }
 
