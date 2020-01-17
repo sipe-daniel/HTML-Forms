@@ -45,7 +45,7 @@ input::-webkit-input-placeholder {
   font-size: 10px;
 }
 
-.form-group>button {
+.form-group > button {
   width: 100%;
 }
 
@@ -60,13 +60,13 @@ h1.titleForm {
   line-height: 1.1;
 }
 
-.form-group>label {
+.form-group > label {
   font-weight: 400;
   color: #404040;
   font-size: 14px;
 }
 
-form>p {
+form > p {
   font-size: 12px;
   font-style: italic;
   color: #757575;
@@ -81,9 +81,7 @@ form>p {
   text-align: center;
 }
 
-.footerText {
-  text-align: center;
-}
+.footerText {text-align: center;}
 
 .accounts {
   text-align: right;
