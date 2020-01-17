@@ -74,7 +74,7 @@ form > p {
 .footerTextStyle > div > ul > li {
   font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
   text-align: center;
-  font-size: 10;
+  font-size: 11px;
   line-height: 14px;
 }
 
@@ -98,9 +98,10 @@ body { overflow-x: hidden; }
   margin-top: 4px;
 }
 
-.footerText {
+.footerText {	
   color: #505050;
   margin-top: 2em;
+  font-size: 11px;
   text-align: center;
 }
 
