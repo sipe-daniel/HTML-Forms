@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 .imageIntuit {
   background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXiti-t4bnAhXb6OAKHahIBmQQjRx6BAgBEAQ&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntuit_Logo.svg&psig=AOvVaw3hPhSdXq8g9DdtIxXljrNa&ust=1579206148718660);
 }
@@ -96,4 +100,13 @@ form > p {
 
 .signInBtn {
   margin-top: 4px;
+}
+
+.footerText {
+    color:#505050;
+    margin-top: 3em;
+}
+
+.accountText {
+    color: #505050;
 }
