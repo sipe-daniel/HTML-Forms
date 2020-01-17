@@ -1,82 +1,104 @@
 .imageIntuit {
+
   background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXiti-t4bnAhXb6OAKHahIBmQQjRx6BAgBEAQ&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntuit_Logo.svg&psig=AOvVaw3hPhSdXq8g9DdtIxXljrNa&ust=1579206148718660);
 }
 .subLogo {
+
   width: 23px;
   height: 23px;
 }
 .formSignUp>div.form-group {
+
   text-align: left;
 }
 .subLogocontainer > div {
+
   margin-right: 8px;
 }
 .subLogocontainer {
+
   margin-bottom: 8px;
 }
 input::-webkit-input-placeholder {
+
   font-family: 'FontAwesome';
-  text-align: right
+  text-align: right;
 }
 .listFooter {
-  margin-bottom: 0px;
+
+  margin-bottom: 1px;
   text-align: center;
 }
 .listFooter > li {
-   display: inline-block;
+
+  display: inline-block;
 }
-.footerTextStyle>div>span, .footerTextStyle>div>ul>li {
+.footerTextStyle > div > span, .footerTextStyle > div > ul > li {
+
   font-family: AvenirNext,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
   text-align: center;
   font-size: 10;
   line-height: 14px;
 }
 .textUnderInputPhone {
+
   padding: 5px 0;
   font-size: 10px;
 }
 .form-group>button {
+
   width: 100%;
 }
 .subTitleForm {
+
   color: #4c4c4c;
   font-size: 14px;
 }
 h1.titleForm {
+
   color: #4c4c4c;
   font-weight: 400;
   line-height: 1.1;
 }
 .form-group>label {
+
   font-weight: 400;
   color: #404040;
   font-size: 14px;
 }
 form>p {
+
   font-size: 12px;
   font-style: italic;
   color: #757575;
 }
 .card-footer>span {
+
   font-size: 10px;
   color: #8d9096;
 }
 .logoWrapper {
+
   text-align: center;
 }
 .footerText {
+
   text-align: center;
 }
 .accounts {
+
   text-align: right;
 }
 #sideAccountWrapper {
+
   font-size: 11px;
 }
 .defaultHorizonTalPading {
+
   padding-right: 3px;
   padding-left: 3px;
 }
 .signInBtn {
+	
   margin-top: 4px;
 }
