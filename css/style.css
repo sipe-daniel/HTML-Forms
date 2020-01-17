@@ -8,18 +8,18 @@
 .formSignUp>div.form-group {
   text-align: left;
 }
-.subLogocontainer > div  {
+.subLogocontainer > div {
   margin-right: 8px;
 }
 .subLogocontainer {
   margin-bottom: 8px;
 }
-input::-webkit-input-placeholder  {
+input::-webkit-input-placeholder {
   font-family: 'FontAwesome';
-  text-align:right
+  text-align: right
 }
 .listFooter {
-  margin-bottom : 0px;
+  margin-bottom: 0px;
   text-align: center;
 }
 .listFooter > li {
@@ -29,7 +29,7 @@ input::-webkit-input-placeholder  {
   font-family: AvenirNext,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
   text-align: center;
   font-size: 10;
-  line-height: 14px; 
+  line-height: 14px;
 }
 .textUnderInputPhone {
   padding: 5px 0;
