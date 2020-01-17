@@ -33,13 +33,6 @@ input::-webkit-input-placeholder {
   display: inline-block;
 }
 
-.footerTextStyle > div > span, .footerTextStyle > div > ul > li {
-  font-family: AvenirNext,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
-  text-align: center;
-  font-size: 10;
-  line-height: 14px;
-}
-
 .textUnderInputPhone {
   padding: 5px 0;
   font-size: 10px;
@@ -77,11 +70,16 @@ form > p {
   color: #8d9096;
 }
 
-.logoWrapper {	
+.footerTextStyle > div > span, 
+.footerTextStyle > div > ul > li {
+  font-family: AvenirNext,Avenir,Helvetica Neue,Helvetica,Arial,sans-serif;
   text-align: center;
+  font-size: 10;
+  line-height: 14px;
 }
 
-.footerText {text-align: center;}
+.logoWrapper { text-align: center; }
+.footerText { text-align: center; }
 
 .accounts {
   text-align: right;
