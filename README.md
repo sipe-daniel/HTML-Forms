@@ -2,6 +2,8 @@
 
 > This project consists of building an HTML document that matches the appearance of mint.com signup page.
 
+![screenshot](./preview.png)
+
 ## Built With
 
 - HTML,
@@ -10,6 +12,7 @@
 
 ## Live Demo
 
+[Original project link](https://rawcdn.githack.com/sipe-daniel/HTML-Forms/1fbaaffa99f4cb6461fc8e2937c1ce52474e2f60/index.html)
 
 ## Authors
 
@@ -39,6 +42,10 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## 📝 License
 
